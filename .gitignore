@@ -1,5 +1,5 @@
 node_modules/*
-.env
+# .env
 session/
 
 # Created by https://www.toptal.com/developers/gitignore/api/vs,intellij+all,node
